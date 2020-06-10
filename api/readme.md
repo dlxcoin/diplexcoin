@@ -1,6 +1,6 @@
 # Node installation and configuration
 
-#Linux
+# Linux
 
 1. Download
 
