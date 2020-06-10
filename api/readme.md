@@ -3,6 +3,7 @@
 #Linux
 
 1. Download
+
 $ cd /your_path_to_dir
 $ mkdir diplexnode
 $ cd /diplexnode
