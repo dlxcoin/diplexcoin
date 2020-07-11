@@ -20,7 +20,7 @@ $ chmod +x diplexcoind
 
 $ cd /root/.diplexcoin/  // replace "root" with the name of your home directory //
 
-$ nano diplecoin.conf
+$ nano diplexcoin.conf
 
 // add following strings
 
